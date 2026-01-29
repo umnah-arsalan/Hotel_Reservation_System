@@ -1,2 +1,11 @@
 # Hotel_Reservation_System
-Features  Room availability  Customer booking  Check-in / Check-out  Bill generation  Date handling  🧠 Concepts  State management  Record locking logic  Real-life workflow modeling
+Features we have: 
+1. Room availability
+2. Customer booking
+3. Check-in / Check-out
+4. Bill generation
+5. Date handling
+Concepts
+a. State management
+b. Record locking logic
+c. Real-life workflow modeling
